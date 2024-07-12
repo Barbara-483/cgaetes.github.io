@@ -13,12 +13,12 @@ body {
 
 /* portafolio */
 
-#portafolio .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+.carousel > .carousel-inner > .carousel-item > img{
+  height:80vh;
+  display: flex;
+  margin: auto;
 }
+
 
 /* Contacto */
 
@@ -37,3 +37,4 @@ body {
   }
 
 }
+
