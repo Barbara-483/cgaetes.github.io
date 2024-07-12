@@ -11,9 +11,9 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+/* portafolio */
 
-#Mis-trabajos .image-top {
+#portafolio .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,13 +22,13 @@ body {
 
 /* Contacto */
 
-#Contacto form label {
+#contacto form label {
   font-weight: 700;
   color: #373a3c;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
+  #contacto form label {
     font-weight: 400;
   }
 
